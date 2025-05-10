@@ -13,7 +13,7 @@
     - ``` npm test ```
 - Report will be generated in Reports folder.
 
-## Pre-erequisite
+## Pre-requisite
   - Node JS must be installed
 
 ## Documentation: 
