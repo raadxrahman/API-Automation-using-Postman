@@ -38,4 +38,5 @@ https://docs.google.com/spreadsheets/d/16Q3hx8O8Se_1NvznVHntBaXN8yPxQgbnSWQLJygy
 ## Newman Report
 ![screencapture-file-E-Raad-SQA-Assignment-02-dmoney-REST-API-report-html-2025-03-06-00_14_15](https://github.com/user-attachments/assets/58498291-79d9-415c-9675-e5b9622e531b)
 
-
+## Author
+Mahbubur Rahman
