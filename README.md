@@ -6,6 +6,16 @@
   - Newman
   - Report: newman-html-extra
 
+## Scenarios
+  - Login to the System as admin
+  - Create user (Agent / Customer)
+  - Deposite to Agent
+  - Deposite to Customer
+  - Agent can check balance
+  - Customer can can check balance
+  - Customer can withdraw money from agent
+  - Customer can send money to another custome
+
 ## How to run this project
   - Clone this project
   - Hit the following command: 
